@@ -56,9 +56,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ommahadik1&theme=tokyo-night&hide_border=false" alt="Contribution Graph" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommahadik1&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="195" />
 </p>
-
 ---
 
 ### 📂 Featured Work
