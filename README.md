@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm Om Mahadik 👋</h1>
+  <h1>Hi there, I'm Om Mahadik </h1>
   <p><strong>UI & Web Developer | BCA Student at MIT World Peace University</strong></p>
 
   <p>
@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 <p align="center">
   <!-- Stats Card (Rank circle removed) -->
   <img src="https://github-readme-stats.vercel.app/api?username=ommahadik1&show_icons=true&theme=tokyonight&custom_title=GitHub%20Stats&hide_rank=true" alt="GitHub Stats" height="195" />
@@ -62,12 +62,12 @@
 </p>
 ---
 
-### 📂 Featured Work
+###  Featured Work
 
 | Project | Description | Live / Repo |
 | :--- | :--- | :--- |
-| **🏫 FixLink** | Campus interactive mapping, room scheduling, and maintenance reporting platform engineered for MIT-WPU. | [Repo](https://github.com/ommahadik1/FixLink) |
-| **🗺️ The Blueprints Local** | Interactive community platform focused on decentralized local planning and municipal solutions. | [Live Site](https://theblueprintslocal.vercel.app) |
-| **👁️ Clear (Prying Eyes)** | Privacy-first browser extension that dynamically blurs sensitive on-screen text until hovered. | [Live Site](https://extensionclear.vercel.app) |
+| **  FixLink** | Campus interactive mapping, room scheduling, and maintenance reporting platform engineered for MIT-WPU. | [Repo](https://github.com/ommahadik1/FixLink) |
+| **  The Blueprints Local** | Interactive community platform focused on decentralized local planning and municipal solutions. | [Live Site](https://theblueprintslocal.vercel.app) |
+| **  Clear (Prying Eyes)** | Privacy-first browser extension that dynamically blurs sensitive on-screen text until hovered. | [Live Site](https://extensionclear.vercel.app) |
 
 ---
