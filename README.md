@@ -49,14 +49,17 @@
 ---
 
 ### 📊 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ommahadik1&show_icons=true&theme=tokyonight&custom_title=GitHub%20Stats" alt="GitHub Stats" height="195" />
+  <!-- Stats Card (Rank circle removed) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ommahadik1&show_icons=true&theme=tokyonight&custom_title=GitHub%20Stats&hide_rank=true" alt="GitHub Stats" height="195" />
+  
+  <!-- Streak Card -->
   <img src="https://streak-stats.demolab.com/?user=ommahadik1&theme=tokyonight" alt="GitHub Streak" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommahadik1&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="195" />
+  <!-- Filtered Languages: Hides HTML/CSS so your JavaScript/React core takes 60%+ -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommahadik1&layout=compact&theme=tokyonight&hide=html,css&hide_border=false" alt="Top Languages" height="165" />
 </p>
 ---
 
