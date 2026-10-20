@@ -1,68 +1,76 @@
-## Hi there, I'm Om Ganesh Mahadik 👋
+<div align="center">
+
+# Hi there, I'm Om Mahadik 👋
+**UI and Web Developer, BCA Student at MIT World Peace University**
+
+<p align="center">
+  <a href="https://linkedin.com/in/ommahadik1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ommahadik245@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://omforyou.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=ommahadik1&color=007ec6&style=flat-square" alt="Profile views" />
 
+</div>
+
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
+
 <p align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="24" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="24" />
   <br/>
-  <!-- Frontend Frameworks -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" />
+  <!-- Frameworks & Libs -->
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="24" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" height="24" />
   <br/>
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30" />
-  <br/>
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="24" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-  <!-- GitHub Streak Card -->
+### 📊 GitHub Activity
+
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ommahadik1&theme=tokyonight" alt="Om's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ommahadik1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ommahadik1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ommahadik1&theme=tokyonight&column=4" alt="Om's Trophies" />
-  </a>
+### 📂 Featured Work
+
+| Project | Description | Live / Repo |
+| :--- | :--- | :--- |
+| **🏫 FixLink** | Campus interactive mapping, room scheduling, and maintenance reporting platform engineered for MIT-WPU. | [GitHub Repo](https://github.com/ommahadik1/FixLink) |
+| **🗺️ The Blueprints Local** | Interactive community platform focused on decentralized local planning and municipal solutions. | [Live Site](https://theblueprintslocal.vercel.app) |
+| **👁️ Clear (Prying Eyes)** | Privacy-first browser extension that dynamically blurs sensitive on-screen text until hovered. | [Live Site](https://extensionclear.vercel.app) |
+
+---
+
+<p align="center">
+  Made with ❤️ by <b>Om Ganesh Mahadik</b>
 </p>
-
----
-
-### 📂 Featured Projects
-#### 🏫 [FixLink](https://github.com/ommahadik1/FixLink)
-A campus interactive mapping, room scheduling, and maintenance reporting system engineered for MIT World Peace University.
-
-#### 🗺️ [The Blueprints Local](https://theblueprintslocal.vercel.app)
-An interactive community platform focused on local planning and development structures.
-
-#### 👁️ [Clear (Prying Eyes)](https://extensionclear.vercel.app)
-A privacy-focused browser extension designed to blur sensitive on-screen text dynamically.
-
----
-
-### 📬 Let's Connect!
-- **LinkedIn:** [Om Ganesh Mahadik](https://www.linkedin.com/in/ommahadik1/)
-- **Email:** [ommahadik245@gmail.com](mailto:ommahadik245@gmail.com)
-- **Portfolio:** [omforyou.vercel.app](https://omforyou.vercel.app)
