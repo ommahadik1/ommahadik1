@@ -52,12 +52,17 @@
 
 ### 📂 Featured Projects
 #### 🏫 [FixLink](https://github.com/ommahadik1/FixLink)
-A campus interactive mapping, room scheduling, and maintenance reporting system engineered for MIT World Peace University[cite: 5].
+A campus interactive mapping, room scheduling, and maintenance reporting system engineered for MIT World Peace University.
+
+#### 🗺️ [The Blueprints Local](https://theblueprintslocal.vercel.app)
+An interactive community platform focused on local planning and development structures.
+
+#### 👁️ [Clear (Prying Eyes)](https://extensionclear.vercel.app)
+A privacy-focused browser extension designed to blur sensitive on-screen text dynamically.
 
 ---
 
 ### 📬 Let's Connect!
 - **LinkedIn:** [Om Ganesh Mahadik](https://www.linkedin.com/in/ommahadik1/)
 - **Email:** [ommahadik245@gmail.com](mailto:ommahadik245@gmail.com)
-- **Portfolio:** [omforyou.vercel.app](https://omforyou.vercel.app)[cite: 5]
-- 
+- **Portfolio:** [omforyou.vercel.app](https://omforyou.vercel.app)
