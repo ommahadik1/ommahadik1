@@ -65,12 +65,9 @@
 
 | Project | Description | Live / Repo |
 | :--- | :--- | :--- |
-| **🏫 FixLink** | Campus interactive mapping, room scheduling, and maintenance reporting platform engineered for MIT-WPU. | [GitHub Repo](https://github.com/ommahadik1/FixLink) |
-| **🗺️ The Blueprints Local** | Interactive community platform focused on decentralized local planning and municipal solutions. | [Live Site](https://theblueprintslocal.vercel.app) |
-| **👁️ Clear (Prying Eyes)** | Privacy-first browser extension that dynamically blurs sensitive on-screen text until hovered. | [Live Site](https://extensionclear.vercel.app) |
+| **🏫 FixLink** | Campus interactive mapping, room scheduling, and maintenance reporting platform engineered for MIT-WPU. | [GitHub](https://github.com/ommahadik1/FixLink) |
+| **🗺️ The Blueprints Local** | Interactive community platform focused on decentralized local planning and municipal solutions. | [Live](https://theblueprintslocal.vercel.app) |
+| **👁️ Clear (Prying Eyes)** | Privacy-first browser extension that dynamically blurs sensitive on-screen text until hovered. | [Live](https://extensionclear.vercel.app) |
 
 ---
 
-<p align="center">
-  Made with ❤️ by <b>Om Ganesh Mahadik</b>
-</p>
