@@ -58,8 +58,7 @@
 </p>
 
 <p align="center">
-  <!-- Filtered Languages: Hides HTML/CSS so your JavaScript/React core takes 60%+ -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommahadik1&layout=compact&theme=tokyonight&hide=html,css&hide_border=false" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommahadik1&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="195" />
 </p>
 ---
 
