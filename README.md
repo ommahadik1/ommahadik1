@@ -1,4 +1,4 @@
-## Hi there, I'm Om Mahadik 👋
+## Hi there, I'm Om Ganesh Mahadik 👋
 
 <img src="https://komarev.com/ghpvc/?username=ommahadik1&color=007ec6&style=flat-square" alt="Profile views" />
 
@@ -52,11 +52,11 @@
 
 ### 📂 Featured Projects
 #### 🏫 [FixLink](https://github.com/ommahadik1/FixLink)
-A campus interactive mapping, room scheduling, and maintenance reporting system engineered for MIT World Peace University.
+A campus interactive mapping, room scheduling, and maintenance reporting system engineered for MIT World Peace University[cite: 5].
 
 ---
 
 ### 📬 Let's Connect!
 - **LinkedIn:** [Om Ganesh Mahadik](https://www.linkedin.com/in/ommahadik1/)
 - **Email:** [ommahadik245@gmail.com](mailto:ommahadik245@gmail.com)
-- **Portfolio:** [omforyou.vercel.app](https://omforyou.vercel.app)
+- **Portfolio:** [omforyou.vercel.app](https://omforyou.vercel.app)[cite: 5]
