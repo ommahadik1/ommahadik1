@@ -51,12 +51,13 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ommahadik1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ommahadik1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ommahadik1&show_icons=true&theme=tokyonight" alt="OM's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ommahadik1&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Dynamic Contribution Graph in Tokyo Night theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ommahadik1&theme=tokyo-night&hide_border=false" alt="Contribution Graph" width="95%" />
 </p>
 
 ---
@@ -65,9 +66,12 @@
 
 | Project | Description | Live / Repo |
 | :--- | :--- | :--- |
-| **🏫 FixLink** | Campus interactive mapping, room scheduling, and maintenance reporting platform engineered for MIT-WPU. | [GitHub](https://github.com/ommahadik1/FixLink) |
-| **🗺️ The Blueprints Local** | Interactive community platform focused on decentralized local planning and municipal solutions. | [Live](https://theblueprintslocal.vercel.app) |
-| **👁️ Clear (Prying Eyes)** | Privacy-first browser extension that dynamically blurs sensitive on-screen text until hovered. | [Live](https://extensionclear.vercel.app) |
+| **🏫 FixLink** | Campus interactive mapping, room scheduling, and maintenance reporting platform engineered for MIT-WPU. | [GitHub Repo](https://github.com/ommahadik1/FixLink) |
+| **🗺️ The Blueprints Local** | Interactive community platform focused on decentralized local planning and municipal solutions. | [Live Site](https://theblueprintslocal.vercel.app) |
+| **👁️ Clear (Prying Eyes)** | Privacy-first browser extension that dynamically blurs sensitive on-screen text until hovered. | [Live Site](https://extensionclear.vercel.app) |
 
 ---
 
+<p align="center">
+  Made with ❤️ by <b>Om Ganesh Mahadik</b>
+</p>
