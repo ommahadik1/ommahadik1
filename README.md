@@ -1,21 +1,21 @@
 <div align="center">
 
-# Hi there, I'm Om Mahadik 👋
-**UI and Web Developer, BCA Student at MIT World Peace University**
+  <h1>Hi there, I'm Om Mahadik 👋</h1>
+  <p><strong>UI & Web Developer | BCA Student at MIT World Peace University</strong></p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ommahadik1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ommahadik245@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://omforyou.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+  <p>
+    <a href="https://linkedin.com/in/ommahadik1">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ommahadik245@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://omforyou.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
 
-<img src="https://komarev.com/ghpvc/?username=ommahadik1&color=007ec6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ommahadik1&color=007ec6&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -51,12 +51,11 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ommahadik1&show_icons=true&theme=tokyonight" alt="OM's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ommahadik1&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ommahadik1&show_icons=true&theme=tokyonight&custom_title=GitHub%20Stats" alt="GitHub Stats" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=ommahadik1&theme=tokyonight" alt="GitHub Streak" height="195" />
 </p>
 
 <p align="center">
-  <!-- Dynamic Contribution Graph in Tokyo Night theme -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ommahadik1&theme=tokyo-night&hide_border=false" alt="Contribution Graph" width="95%" />
 </p>
 
@@ -66,7 +65,7 @@
 
 | Project | Description | Live / Repo |
 | :--- | :--- | :--- |
-| **🏫 FixLink** | Campus interactive mapping, room scheduling, and maintenance reporting platform engineered for MIT-WPU. | [GitHub Repo](https://github.com/ommahadik1/FixLink) |
+| **🏫 FixLink** | Campus interactive mapping, room scheduling, and maintenance reporting platform engineered for MIT-WPU. | [Repo](https://github.com/ommahadik1/FixLink) |
 | **🗺️ The Blueprints Local** | Interactive community platform focused on decentralized local planning and municipal solutions. | [Live Site](https://theblueprintslocal.vercel.app) |
 | **👁️ Clear (Prying Eyes)** | Privacy-first browser extension that dynamically blurs sensitive on-screen text until hovered. | [Live Site](https://extensionclear.vercel.app) |
 
