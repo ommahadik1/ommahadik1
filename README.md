@@ -71,7 +71,3 @@
 | **👁️ Clear (Prying Eyes)** | Privacy-first browser extension that dynamically blurs sensitive on-screen text until hovered. | [Live Site](https://extensionclear.vercel.app) |
 
 ---
-
-<p align="center">
-  Made with ❤️ by <b>Om Ganesh Mahadik</b>
-</p>
